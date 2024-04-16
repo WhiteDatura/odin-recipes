@@ -1,0 +1,51 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+#header {
+    text-align: center;
+    background-color: beige;
+    color: rgb(223, 33, 33);
+    font-size: 44px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 300px;
+}
+
+.para1 {
+    text-align: center;
+    background-color: rgb(184, 196, 191);
+}
+
+h3 {
+    text-align: center;
+    background-color: beige;
+}
+
+.small-header {
+    background-color: rgb(95, 71, 34);
+    text-align: center;
+    font-size: 22px;
+}
+
+.ingredients {
+    color: green;
+}
+
+.steps  {
+    color:rgb(177, 156, 226);
+}
+
+ul {
+    background-color: bisque;
+}
+
+ol {
+    background-color: burlywood;
+}
